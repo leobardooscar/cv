@@ -1,8 +1,6 @@
 site_name: Leobardo Oscar Alcántara
 theme:
   name: material
-theme:
-  name: material
   features:
     - navigation.tabs
     - navigation.sections
