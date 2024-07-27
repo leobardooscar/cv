@@ -1,4 +1,5 @@
 site_name: Leobardo Oscar Alcántara
+site_url: https://leobardooscar.github.io/cv/
 theme:
   name: material
   features:
@@ -50,4 +51,3 @@ markdown_extensions:
 
 copyright: |
   &copy; 2024 <a href="https://github.com/leobardooscar"  target="_blank" rel="noopener">Leobardo Oscar Alcántara Ocana</a>
-
