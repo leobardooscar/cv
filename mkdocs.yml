@@ -1,5 +1,5 @@
-site_name: Leobardo Oscar Alcántara
-site_url: https://leobardooscar.github.io/cv/
+site_name: MkDocs YouTube Tutorial
+site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
 theme:
   name: material
   features:
@@ -26,6 +26,11 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
+
+plugins:
+  - social
+  - search
+
 extra:
   social:
     - icon: fontawesome/brands/github-alt
@@ -48,6 +53,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/leobardooscar"  target="_blank" rel="noopener">Leobardo Oscar Alcántara Ocana</a>
+  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
