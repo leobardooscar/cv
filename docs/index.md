@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Personal Information
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### I was born on:
+July 6th, 1972 in México City, CDMX (former D.F.). 
 
-## Commands
+### Contact information: 
+**e-mail:** leobardooscar@gmail.com / leobardo@iteso.mx 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+### Academic degrees:
++ **1996**	B.A. in Communication Sciences - ITESO University, Guadalajara México.
++ **2012**	M.A. in Communication of Science & Culture - ITESO University, Guadalajara México.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+### Work experience:
+
+---
+
+### Skills & Competences
+
+<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).-->
+
