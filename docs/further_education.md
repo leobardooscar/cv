@@ -1,12 +1,13 @@
 # Further Education
 
-## &#8594;   Information Technology
-### **Certificates**
+## &#10132;    Information Technology
+<!-- Arrow -different style- &#8594;-->
+###  **Certificates** &#10002;
 + **2015** - Certificate in Geomatics and Regional Planning - University of Guadalajara. The Mexican Commission for the Knowledge and Use of Biodiversity CONABIO.
 + **2012** - Certificate in Linux Administration - ITESO University
 + **2007** - Certificate in Design and Production of Multimedia & Interactive Systems - ITESO University
 
-### **Workshops**
+### **Workshops** &#10002;
 + **2022** - Search & Retrieval of Statistic and Geographical Information: an update on new features and tools. UNAM - INEGI, México.
 + **2018** - Open-source library services platform FOLIO. EBSCO Information Services & University of Guadalajara.
 + **2017** - The Digital Map of Mexico platform. National System of Statistical and Geographical Information, INEGI. México.
@@ -18,14 +19,14 @@
 
 ---
 
-## &#8594;  Social Sciences
-### **Certificates**
+## &#10132;   Social Sciences
+###   **Certificates** &#10002;
 
 + **2024** Transparency, Privacy and Security in Digital Environments. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco, ITEI.
 + **2010** Social controllership: Citizen's right to Accountability. ITESO University.
 ---
 
-### **Seminars & Workshops**
+###   **Seminars & Workshops** &#10002;
 + **2024** 	Webinar on Social Networks & Public Sector. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco (ITEI;            Chihuahua Institute for Transparency and Access to Public Information (ICHITAIP). 
 
 + **2022** - Seminar on Democracy, Governance & Civil Society. El Colegio de Jalisco. Guadalajara, México. 
@@ -63,6 +64,6 @@
     - Citizenship, Human Rights & Peace. ITESO University.
     - Citizenship, Neighborhood & Fraternity. ITESO University.
 
-+ 2011 -	
++ **2011** 	
     - Ethics in Education for Social Coexistence. ITESO University.
     - Seminar of Knowledge & Culture. ITESO University.

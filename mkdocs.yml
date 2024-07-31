@@ -1,4 +1,4 @@
-site_name: Leobardo Oscar Alcántara Ocaña
+site_name: Curriculum Vitae and Gallery Projects
 theme:
   name: material
 # ---------
@@ -41,6 +41,7 @@ extra:
       link: https://www.linkedin.com/in/willettjames/
     - icon: fontawesome/brands/behance
     - icon: fontawesome/brands/flickr
+    - icon: fontawesome/brands/spotify
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -55,6 +56,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
   # - pymdownx.emoji:
   #    emoji_index: !!python/name:materialx.emoji.twemoji
   #    emoji_generator: !!python/name:materialx.emoji.to_svg
