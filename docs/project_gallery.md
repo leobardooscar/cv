@@ -34,7 +34,7 @@
 
 ---
 
-## &#10132; Branding, Design & GUI Customization
+## &#10132; GUI Customization
 ### Discovery Search
 + Online Public Access Catalog Discovery Search
 + Vufind 
@@ -44,8 +44,8 @@
 | ![Urban Heritage Protection Area](img/thn_front_vufind.png )      | ![Urban Heritage Protection Area](img/thn_browse_vufind.png )      |
 | [&#8594; Available online [here]](https://opac.biblio.iteso.mx/vufind/ "Front page").   | [&#8594; Available online [here] ](https://opac.biblio.iteso.mx/vufind/browse/ "Browse").        |
 
-###Academic repositories
-+ DSpace repositories
+###Academic repositories 
++ DSpace repositories branding
 
 | Home      | Browse |
 | ----------- | ----------- |
@@ -63,7 +63,15 @@
 
 
 
-## SVG GUI design
+## &#10132; SVG GUI design.
+
++ Library building floors.  
++ Scalable Vector Graphics (SVG) Interactive Map. ITESO University.
+
+| Floor one     | Floor two |
+| ----------- | ----------- |
+| ![Planta baja](img/thn_planta_baja_biblioteca.png )      | ![Planta alta](img/thn_planta_alta_biblioteca.png )      |
+| [SVG online version [here]](https://leobardooscar.github.io/portfolio/svg.html "SVG").   | [SVG online version [here]](https://leobardooscar.github.io/portfolio/svg.html "SVG").        |
 
 ---
 

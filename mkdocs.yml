@@ -27,7 +27,8 @@ theme:
       primary: teal
       accent: lime
 
-# plugins:
+#plugins:
+# inline-select-svg
 #  - social
 #  - search
 
