@@ -1,6 +1,6 @@
 ##&#10132; Cinema
 
-+ [Usr. profile on MUBI: 1,196 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")
++ [Usr. profile on MUBI: 1,340 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")
 
 **My favorite movies:**
 
@@ -12,10 +12,11 @@
 | ----------- | ----------- |
 |<figure markdown="span"> ![MK2 Films](../img/mk2_films_dark.png#only-dark) ![MK2 Films](../img/mk2_films_light.png#only-dark#only-light ) <figcaption> Marin Karmitz</figcaption></figure> | <figure markdown="span">![The Ladd Company](../img/The_Ladd_Company_logo.png) <figcaption> </figcaption> Founded in October of 1979 by a team of former Fox executives</figure>   |
     
++ **A must-read reference in the world of film criticism:**
 
-+ [300 movies that Rober Ebert -website- consider worthy of beign called "great"  ](https://www.rogerebert.com/great-movies "RoberEbert.com").
+	+ [300 movies that Rober Ebert -website- consider worthy of beign called "great"  ](https://www.rogerebert.com/great-movies "RoberEbert.com").
 
-* [*Roger Ebert*](https://en.wikipedia.org/wiki/Roger_Ebert "Wikipedia entry") *was a film critic for the Chicago Sun-Times from 1967 until his death in 2013.* 
+	+ [*Roger Ebert*](https://en.wikipedia.org/wiki/Roger_Ebert "Wikipedia entry") *was a film critic for the Chicago Sun-Times from 1967 until his death in 2013.* 
 
 --- 
 
