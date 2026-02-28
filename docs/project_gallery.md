@@ -6,7 +6,7 @@
 
 | Front A      | Front B |
 | ----------- | ----------- |
-| ![TESO University Library Web portal. Front ](img/thn_front_portal_biblioteca.png )      | ![TESO University Library Web portal. Front with IEEE promotion](img/thn_front_portal_biblioteca_IEEE.png )      |
+| ![TESO University Library Web portal. Front ](img/thn_front_portal_biblioteca.png )      | ![TESO University Library Web portal. Front with IEEE academic information service promotion](img/thn_front_portal_biblioteca_IEEE.png )      |
 | [&#8594; Project Image Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; Project Image Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
 | [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").  |  |
 
