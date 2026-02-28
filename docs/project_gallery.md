@@ -6,7 +6,7 @@
 
 | Front A      | Front B |
 | ----------- | ----------- |
-| ![TESO University Library Web portal. Front ](img/thn_front_portal_biblioteca.png )      | ![TESO University Library Web portal. Front with IEEE promotion](img/thn_front_portal_biblioteca_IEEE.png )      |
+| ![TESO University Library Web portal. Front ](img/thn_front_portal_biblioteca.png )      | ![TESO University Library Web portal. Front with IEEE academic information service promotion](img/thn_front_portal_biblioteca_IEEE.png )      |
 | [&#8594; Project Image Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; Project Image Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
 | [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").  |  |
 
@@ -35,7 +35,7 @@
 
 ###Thesauri
 + Online Library's Thesauri 
-+ **Platform: ALEPH OPAC**
++ **Platform: EXLIBRIS ALEPH OPAC**
 
 | Home      | Browse |
 | ----------- | ----------- |
@@ -44,7 +44,7 @@
 
 ## &#10132; Geomatics
 + Mistletoe-infested trees. Inventory within an urban polygon.
-+ Platform: ArcGIS StoryMaps.
++ **Platform: ArcGIS StoryMaps.**
 
 
 | Guadalajara City Metropolitan Area  <br />  Each color represents an Administrative area. | Zapopan Downtown <br />  View of Study Area: Inventory of 2,500 trees.|
