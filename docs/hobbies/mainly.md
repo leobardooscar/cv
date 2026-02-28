@@ -74,7 +74,7 @@ Work in progress :-)
 <pre>
 I'm a dog person
 
-Dog image here >>>
+Dog image here >>> ::::
 
 </pre>
 --- 
