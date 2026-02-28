@@ -2,7 +2,7 @@
 
 ### Library Web portal
 + ITESO University Library Web portal
-+ Platform: Drupal
++ **Platform: Drupal**
 
 | Front A      | Front B |
 | ----------- | ----------- |
@@ -16,7 +16,7 @@
 ## &#10132; GUI Customization
 ### Discovery Search
 + Online Public Access Catalog Discovery Search
-+ Vufind 
++ **Platform: Vufind** 
 
 | Home      | Browse |
 | ----------- | ----------- |
@@ -24,25 +24,27 @@
 | [&#8594; Available on Internet Archive](https://web.archive.org/web/20210223235932/https://opac.biblio.iteso.mx/vufind/ "Front page").   | [&#8594; More images on Adobe Portfolio](https://leobardooscar.myportfolio.com/online-public-access-catalog-discovery-interface "Browse").        |
 
 ###Academic repositories 
-+ DSpace repositories branding
++ Pepositories Branding & Personalization
++ **Platform: DSpace**
 
 | Home      | Browse |
 | ----------- | ----------- |
 | ![REI Repository](img/thn_front_rei.png )      | ![Ausjal Repository](img/thn_front_ausjal.png )      |
-| [More images on Adobe Portfolio](https://leobardooscar.myportfolio.com/academic-institutional-repository-v2 "Behance portfolio ").   | [More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/repository-of-the-association-of-universities-entrusted "GUI & UX design works").        |
+| [More images on Adobe Portfolio](https://leobardooscar.myportfolio.com/academic-institutional-repository-v2 "Behance portfolio ").   | [More images on Adobe Portfolio](https://leobardooscar.myportfolio.com/repository-of-the-association-of-universities-entrusted "GUI & UX design works").        |
 
 
 ###Thesauri
 + Online Library's Thesauri 
++ **Platform: ALEPH OPAC**
 
 | Home      | Browse |
 | ----------- | ----------- |
 | ![OPAC Thesauri. Front](img/thn_online_thesaurus.png )      | ![OPAC Thesauri. Browse](img/thn_online_thesaurus_search_results.png )      |
-| [Boostrap version CV & Project Gallery [here]](https://leobardooscar.github.io/portfolio/gui_ux.html "Behance portfolio ").   | [Boostrap version CV & Project Gallery [here]](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
+| [Boostrap version CV & Project Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "Behance portfolio ").   | [Boostrap version CV & Project Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
 
 ## &#10132; Geomatics
 + Mistletoe-infested trees. Inventory within an urban polygon.
-+ ESRI ArcGIS & ArcGIS StoryMaps.
++ Platform: ArcGIS StoryMaps.
 
 
 | Guadalajara City Metropolitan Area  <br />  Each color represents an Administrative area. | Zapopan Downtown <br />  View of Study Area: Inventory of 2,500 trees.|
@@ -57,11 +59,12 @@
 
 + Library building floors.  
 + Scalable Vector Graphics (SVG) Interactive Map. ITESO University.
++ **Platform: Drupal**
 
 | Floor one     | Floor two |
 | ----------- | ----------- |
 | ![Planta baja](img/thn_planta_baja_biblioteca.png )      | ![Planta alta](img/thn_planta_alta_biblioteca.png )      |
-| [SVG online version [here]](https://leobardooscar.github.io/portfolio/svg.html "SVG").   | [SVG online version [here]](https://leobardooscar.github.io/portfolio/svg.html "SVG").        |
+| [SVG online version](https://leobardooscar.github.io/portfolio/svg.html "SVG").   | [SVG online version](https://leobardooscar.github.io/portfolio/svg.html "SVG").        |
 
 ---
 
