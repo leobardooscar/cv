@@ -27,9 +27,9 @@ I was born on July 6th, 1972 in México City, CDMX (former D.F.).
 ---
 
 ### &#10132; **Work experience**
-+ **1999 – 2020** Web Designer & Web Content Manager. “Dr. Jorge Villalobos Padilla” Library. ITESO University. 97 – 2003 University's Web Portal Content Manager. ITESO University. 
-+ **99 – 2001; 2011** Reference librarian. ITESO University.
-+ **2007 – 2008** Reference librarian. "Cultural Centre Library". Supreme Court of Justice of the Nation (SCJN), Mexico.
++ **1999 – 2020:** Web Designer & Web Content Manager. “Dr. Jorge Villalobos Padilla” Library. ITESO University. 97 – 2003 University's Web Portal Content Manager. ITESO University. 
++ **99 – 2001; 2011:** Reference librarian. ITESO University.
++ **2007 – 2008:** Reference librarian. "Cultural Centre Library". Supreme Court of Justice of the Nation (SCJN), Mexico.
 
 ---
 
