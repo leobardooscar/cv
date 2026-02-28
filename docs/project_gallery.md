@@ -1,4 +1,15 @@
 # Web Projects Gallery
+
+### Library Web portal
++ ITESO University Library Web portal
++ Platform: Drupal
+
+| Front A      | Front B |
+| ----------- | ----------- |
+| ![Urban Heritage Protection Area](img/thn_front_portal_biblioteca.png )      | ![Urban Heritage Protection Area](img/thn_front_portal_biblioteca_IEEE.png )      |
+| [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
+
+
 ## &#10132; Geomatics
 + Mistletoe-infested trees. Inventory within an urban polygon.
 + ESRI ArcGIS & ArcGIS StoryMaps.
@@ -12,25 +23,6 @@
 
 ---
 
-## &#10132; GUI & UX design
-
-### University Historical Photograph Collection
-+ Open Access Initiative, OAI.
-
-| ITESO University Academic Repository      | Universities Entrusted to the Society of Jesus In Latin America Repository |
-| ----------- | ----------- |
-| ![Urban Heritage Protection Area](img/thn_front_archivo_iteso_1.png )      | ![Urban Heritage Protection Area](img/thn_front_archivo_iteso_2.png )      |
-| [&#8594; More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/university-historic-photograph-collection "Behance portfolio ").   | [&#8594; More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/university-historic-photograph-collection "Behance portfolio ").        |
-
-
-### Library Web portal
-+ ITESO University Library Web portal
-+ Drupal
-
-| Front A      | Front B |
-| ----------- | ----------- |
-| ![Urban Heritage Protection Area](img/thn_front_portal_biblioteca.png )      | ![Urban Heritage Protection Area](img/thn_front_portal_biblioteca_IEEE.png )      |
-| [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
 
 ---
 

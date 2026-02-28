@@ -17,22 +17,6 @@
 
 * [*Roger Ebert*](https://en.wikipedia.org/wiki/Roger_Ebert "Wikipedia entry") *was a film critic for the Chicago Sun-Times from 1967 until his death in 2013.* 
 
-
-
---- 
-
-##&#10132; Music
-
-
-+ [My Playlist on Spotify](https://open.spotify.com/user/leobardo_oscar "1,504 Public Playlists")
-
---- 
-
-##&#10132; Dogs
---- 
-
-##&#10132; Photography
-
 --- 
 
 ## &#10132; Lexicography
@@ -57,8 +41,40 @@ Work in progress :-)
 
 --- 
 
-##&#10132; Nephologist 
+## &#10132; Nephologist 
 
-+ Cloud observation & appreciation
+ + Cloud observation & appreciation:
+
+    
+ 	   + [Clouds spotted in Guadalajara Jalisco Mexico: FRONT](https://leobardooscar.github.io/clouds_front "Go to Front page") 
+    
+  	 + [Clouds spotted in Guadalajara Jalisco Mexico: Collection Builder](https://leobardooscar.github.io/clouds "Collection Builder") 
+		
+---
+
+
+## &#10132; Photography
+
++ [Flicker image showcase](https://www.flickr.com/people/loao/ "Flickr") 
+
++ [Instagram](https:// "Instagram")
+
+--- 
+
+## &#10132; Music
+
+
++ [My Playlist on Spotify](https://open.spotify.com/user/leobardo_oscar "1,504 Public Playlists")
+
+--- 
+
+## &#10132; Dogs
+
+<pre>
+
+
+</pre>
+--- 
+
 
 
