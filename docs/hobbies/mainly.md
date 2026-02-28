@@ -71,7 +71,9 @@ Work in progress :-)
 ## &#10132; Dogs
 
 <pre>
+I'm a dog person
 
+Dog image here
 
 </pre>
 --- 

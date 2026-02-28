@@ -6,22 +6,9 @@
 
 | Front A      | Front B |
 | ----------- | ----------- |
-| ![Urban Heritage Protection Area](img/thn_front_portal_biblioteca.png )      | ![Urban Heritage Protection Area](img/thn_front_portal_biblioteca_IEEE.png )      |
-| [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
-
-
-## &#10132; Geomatics
-+ Mistletoe-infested trees. Inventory within an urban polygon.
-+ ESRI ArcGIS & ArcGIS StoryMaps.
-
-
-| Guadalajara City Metropolitan Area  <br />  Each color represents an Administrative area. | Zapopan Downtown <br />  View of Study Area: Inventory of 2,500 trees.|
-| ----------- | ----------- |
-| ![Urban Heritage Protection Area](img/thn_georeferenced_inventory_trees_A.png )  <br /> [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").    | ![Urban Heritage Protection Area](img/thn_georeferenced_inventory_trees_B.png )   [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").   |
-| **Urban Heritage Protection Area**  <br /> Represented by the blue dotted line.   | **Study Area Zoom In**  <br /> Red trees are Mistletoe-infested.|
-| ![Urban Heritage Protection Area](img/thn_georeferenced_inventory_trees_C.png ) [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps"). | ![Urban Heritage Protection Area](img/thn_georeferenced_inventory_trees_D.png )    [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").     |
-
----
+| ![TESO University Library Web portal. Front ](img/thn_front_portal_biblioteca.png )      | ![TESO University Library Web portal. Front with IEEE promotion](img/thn_front_portal_biblioteca_IEEE.png )      |
+| [&#8594; Project Image Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; Project Image Gallery](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
+| [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").  |  |
 
 
 ---
@@ -33,8 +20,8 @@
 
 | Home      | Browse |
 | ----------- | ----------- |
-| ![Urban Heritage Protection Area](img/thn_front_vufind.png )      | ![Urban Heritage Protection Area](img/thn_browse_vufind.png )      |
-| [&#8594; Available online [here]](https://opac.biblio.iteso.mx/vufind/ "Front page").   | [&#8594; Available online [here] ](https://opac.biblio.iteso.mx/vufind/browse/ "Browse").        |
+| ![Online Public Access Catalog Discovery Search. Front](img/thn_front_vufind.png )   | ![Online Public Access Catalog Discovery Search. Browse](img/thn_browse_vufind.png )      |
+| [&#8594; Available on Internet Archive](https://web.archive.org/web/20210223235932/https://opac.biblio.iteso.mx/vufind/ "Front page").   | [&#8594; More images on Adobe Portfolio](https://leobardooscar.myportfolio.com/online-public-access-catalog-discovery-interface "Browse").        |
 
 ###Academic repositories 
 + DSpace repositories branding
@@ -42,7 +29,7 @@
 | Home      | Browse |
 | ----------- | ----------- |
 | ![REI Repository](img/thn_front_rei.png )      | ![Ausjal Repository](img/thn_front_ausjal.png )      |
-| [More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/academic-institutional-repository-v2 "Behance portfolio ").   | [More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/repository-of-the-association-of-universities-entrusted "GUI & UX design works").        |
+| [More images on Adobe Portfolio](https://leobardooscar.myportfolio.com/academic-institutional-repository-v2 "Behance portfolio ").   | [More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/repository-of-the-association-of-universities-entrusted "GUI & UX design works").        |
 
 
 ###Thesauri
@@ -50,10 +37,21 @@
 
 | Home      | Browse |
 | ----------- | ----------- |
-| ![REI Repository](img/thn_online_thesaurus.png )      | ![Ausjal Repository](img/thn_online_thesaurus_search_results.png )      |
+| ![OPAC Thesauri. Front](img/thn_online_thesaurus.png )      | ![OPAC Thesauri. Browse](img/thn_online_thesaurus_search_results.png )      |
 | [Boostrap version CV & Project Gallery [here]](https://leobardooscar.github.io/portfolio/gui_ux.html "Behance portfolio ").   | [Boostrap version CV & Project Gallery [here]](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
 
+## &#10132; Geomatics
++ Mistletoe-infested trees. Inventory within an urban polygon.
++ ESRI ArcGIS & ArcGIS StoryMaps.
 
+
+| Guadalajara City Metropolitan Area  <br />  Each color represents an Administrative area. | Zapopan Downtown <br />  View of Study Area: Inventory of 2,500 trees.|
+| ----------- | ----------- |
+| ![Guadalajara City Metropolitan Area](img/thn_georeferenced_inventory_trees_A.png )  <br /> [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").    | ![Zapopan Downtown Area](img/thn_georeferenced_inventory_trees_B.png )   [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").   |
+| **Urban Heritage Protection Area**  <br /> Represented by the blue dotted line.   | **Study Area Zoom In**  <br /> Red trees are Mistletoe-infested.|
+| ![Urban Heritage Protection Area](img/thn_georeferenced_inventory_trees_C.png ) [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps"). | ![Study Area Zoom In](img/thn_georeferenced_inventory_trees_D.png )    [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").     |
+
+---
 
 ## &#10132; SVG GUI design.
 
@@ -67,7 +65,7 @@
 
 ---
 
-[More images on Behance Portfolio [here]](https://leobardooscar.myportfolio.com/ " ").
+[More images on Behance Portfolio](https://leobardooscar.myportfolio.com/ " ").
 
-[Boostrap version CV & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/geomatics.html "Geomatics").
+[Boostrap version CV & Project Gallery](https://leobardooscar.github.io/portfolio/geomatics.html "Geomatics").
 
