@@ -27,7 +27,7 @@
 ---
 
 ###   **Seminars & Workshops** &#10002;
-+ **2026** - Media and Information Literacy. Seminar. The Electoral and Citizen Institute of the State of Jalisco (IEPCJ), Guadalajara, México. 
++ **2026** - Media & Information Literacy. Online Workshop. The Electoral and Citizen Institute of the State of Jalisco (IEPCJ), Guadalajara Jalisco, México. 
 
 + **2026** - The Right: Traditions and Contemporary Changes. Seminar. El Colegio de Jalisco. Guadalajara, México. 
 
