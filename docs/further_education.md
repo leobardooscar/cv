@@ -27,11 +27,11 @@
 ---
 
 ###   **Seminars & Workshops** &#10002;
-+ **2026** Media and Information Lityeracy. Seminar. Electoral and Citizen Institute of the State of Jalisco (IEPCJ), Guadalajara, México. 
++ **2026** - Media and Information Literacy. Seminar. The Electoral and Citizen Institute of the State of Jalisco (IEPCJ), Guadalajara, México. 
 
-+ **2026** The Right: Traditions and Contemporary Changes. Seminar. El Colegio de Jalisco. Guadalajara, México. 
++ **2026** - The Right: Traditions and Contemporary Changes. Seminar. El Colegio de Jalisco. Guadalajara, México. 
 
-+ **2024** 	Webinar on Social Networks & Public Sector. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco (ITEI;            Chihuahua Institute for Transparency and Access to Public Information (ICHITAIP). 
++ **2024** - Webinar on Social Networks & Public Sector. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco (ITEI;            Chihuahua Institute for Transparency and Access to Public Information (ICHITAIP). 
 
 + **2022** - Seminar on Democracy, Governance & Civil Society. El Colegio de Jalisco. Guadalajara, México. 
 
